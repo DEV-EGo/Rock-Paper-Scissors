@@ -1,8 +1,8 @@
 html {
-    background-image: url(./images/background-scene---first-background.png);
+    background-image: url(./background-scene---first-background.png);
     height: 100%; 
     background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-    /* background-color: #8b94428c; */
+    background-color: #8b94428c;
 }
