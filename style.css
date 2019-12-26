@@ -1,3 +1,18 @@
-body {  
-    background-color: darkgreen;
+html {
+    background-color: #8b94428c;
+}
+body{
+    background-color: #800404f5;
+}
+h1 {
+    text-align: center;
+}
+.jumbotron { 
+    background-color: yellow;
+}
+.row {
+    background-color: #800404f5;
+}
+.col-md-offset-2 { 
+    background-color: #800404c7;
 }
