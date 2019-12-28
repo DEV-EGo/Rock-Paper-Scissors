@@ -4,5 +4,11 @@ html {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    /* background-color: #8b94428c; */
+}
+h1 {
+    text-align: center;
+
+}
+.container {
+    background-color: hsla(231, 58%, 15%, 0.91);
 }
