@@ -9,6 +9,19 @@ h1 {
     text-align: center;
 
 }
+
+h2{
+    text-align: center;
+}
 .container {
     background-color: hsla(231, 58%, 15%, 0.91);
+}
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 5px solid #252c4e;
+    margin: 1em 0;
+    padding: 0;
 }
