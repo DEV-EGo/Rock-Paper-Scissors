@@ -1,8 +1,30 @@
-html {
-    background-image: url(./background-scene---first-background.png);
+ html,body{
+    background-image: url(/images/background-scene---first-background.png);
     height: 100%; 
     background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-    background-color: #8b94428c;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: gray;
+}
+h1 {
+    text-align: center;
+    font-family: 'Cinzel', serif;
+    font-family: 'Diplomata', cursive;
+}
+h2{
+    text-align
+    : center;
+}
+.container {
+    background-color: hsla(231, 58%, 15%, 0.91);
+}
+
+
+hr{
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 5px solid #252c4e;
+    margin: 1em 0;
+    padding: 0;
 }
